@@ -1,0 +1,20 @@
+{
+  "name": "wd-gathr",
+  "homepage": "https://github.com/WEBDMG/wd-gathr",
+  "authors": [
+    "WEBDMG <info@webdmg.com>"
+  ],
+  "description": "Gathr Web Components",
+  "main": "",
+  "keywords": [
+    "element-collection"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
