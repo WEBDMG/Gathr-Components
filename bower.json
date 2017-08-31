@@ -6,6 +6,9 @@
   ],
   "description": "Gathr Web Components",
   "main": "",
+  "dependencies": {
+    "wd-events": "latest"
+  },
   "keywords": [
     "element-collection"
   ],
