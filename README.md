@@ -1,1 +1,1 @@
-# wd-gathr
+# Gathr Webcomponents
