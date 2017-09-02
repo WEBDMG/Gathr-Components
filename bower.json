@@ -7,7 +7,7 @@
   "description": "Gathr Web Components",
   "main": "",
   "dependencies": {
-    "wd-events": "latest"
+    "Gathr-Events": "latest"
   },
   "keywords": [
     "element-collection"
