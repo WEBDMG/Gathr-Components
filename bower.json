@@ -7,8 +7,8 @@
   "description": "Gathr Web Components",
   "main": "gathr.html",
   "dependencies": {
-    "Gathr-Events": "latest",
-    "Gathr-Photos": "latest"
+    "Gathr-Events": "WEBDMG/Gathr-Events",
+    "Gathr-Photos": "WEBDMG/Gathr-Photos"
   },
   "keywords": [
     "element-collection",
