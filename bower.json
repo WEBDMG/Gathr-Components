@@ -5,12 +5,15 @@
     "WEBDMG <info@webdmg.com>"
   ],
   "description": "Gathr Web Components",
-  "main": "",
+  "main": "gathr.html",
   "dependencies": {
-    "Gathr-Events": "latest"
+    "Gathr-Events": "latest",
+    "Gathr-Photos": "latest"
   },
   "keywords": [
-    "element-collection"
+    "element-collection",
+    "polymer",
+    "web-components"
   ],
   "license": "MIT",
   "ignore": [

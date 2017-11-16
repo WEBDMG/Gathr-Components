@@ -1,1 +1,0 @@
-# Gathr Web Components
